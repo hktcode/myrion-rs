@@ -1,0 +1,9 @@
+[package]
+name = "myrion"
+version = "0.1.0"
+edition = "2024"
+description = "A placeholder crate for myrion."
+
+[lib]
+name = "myrion"
+path = "src/lib.rs"
